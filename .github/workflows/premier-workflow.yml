@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Afficher un message
-        run: echo "Bienvenue dans le cours DevOps"
+        run: echo "TP4 DevOps terminé"
 
       - name: Afficher la date
         run: date
